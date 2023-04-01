@@ -1,0 +1,30 @@
+.login-form, .show-table th, .form-new {
+    background-color: #ECF2FF;
+}
+
+h1 {
+    color: #1A5F7A;
+}
+
+.card-title {
+    color: #002B5B;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card {
+    height: 430px;
+}
+
+.show-image {
+    width: 400px;
+}
+
+.show-table th {
+    padding: 10px;
+    color: #1A5F7A;
+}
+
+.form-new {
+    padding: 30px;
+}

@@ -1,6 +1,6 @@
 # orstella-symfony
 
-# after git clone use this commande
+# after git clone use this commands
 1. composer install
 
 2. npm install yarn
